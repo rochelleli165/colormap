@@ -1,0 +1,25 @@
+.wow {
+  width: 100px;
+}
+
+
+.roundbutton {
+  font-size: 20px;
+  border-radius: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+  border: none;
+  color: white;
+   opacity: 1;
+  text-align: left;
+}
+
+
+.roundbutton:hover {
+  opacity: 0.6;
+}
+
+
